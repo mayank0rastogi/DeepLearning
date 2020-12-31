@@ -30,9 +30,6 @@ Training The CNN on our 4 classes which we have in our dataset
 ```
 Visualization the validation_loss and validation_accuracy by loss and accuracy
 ```
-![alt text](https://github.com/mayank0rastogi/DeepLearningProjects/blob/main/CottonDiseasePrediction(vgg16)/AccVal_acc.png)
-
-![alt text](https://github.com/mayank0rastogi/DeepLearningProjects/blob/main/CottonDiseasePrediction(vgg16)/cotton1.jfif)
 ```
 Testing the data by inputing the image from different classes 
 ```
