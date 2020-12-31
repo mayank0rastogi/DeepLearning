@@ -11,11 +11,14 @@ Importing the Libraries
 Training & DataLoader
 ```
 ```
-Building the Advanced CNN model by taking the vgg16 pretrained model and weight in this i have taken is imagenet and Predicting for 4 classes that is we customize the last layer of vgg16 model 
+Building the Advanced CNN model by taking the vgg16 pretrained model and weight in this i have taken is imagenet
+and Predicting for 4 classes that is we customize the last layer of vgg16 model 
 ```
 ```
 Summary
 ```
+```
+Data Augmentation 
 ```
 Training The CNN on our 4 classes which we have in our dataset
 
