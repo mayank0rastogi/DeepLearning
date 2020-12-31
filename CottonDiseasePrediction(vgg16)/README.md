@@ -1,4 +1,3 @@
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
 ![alt text](https://github.com/mayank0rastogi/DeepLearningProjects/blob/main/CottonDiseasePrediction(vgg16)/cotton1.jfif)
 
 
