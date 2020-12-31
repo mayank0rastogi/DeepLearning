@@ -18,7 +18,11 @@ and Predicting for 4 classes that is we customize the last layer of vgg16 model
 Summary
 ```
 ```
+adding 4 classes to our last layer of cnn vgg16 architecture
+```
+```
 Data Augmentation 
+```
 ```
 Training The CNN on our 4 classes which we have in our dataset
 
@@ -26,8 +30,10 @@ Training The CNN on our 4 classes which we have in our dataset
 ```
 Visualization the validation_loss and validation_accuracy by loss and accuracy
 ```
+```
 Testing the data by inputing the image from different classes 
 ```
 ```
 Conclusion by getting result on real image by giving to the model 
+```
 ```
