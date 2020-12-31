@@ -1,10 +1,28 @@
-##The purpose of this notebook is to predict wheather the image belongs to diseased class or not. In this dataset we have 4 classes diseased leaf , diseased plant , freash leaf and freash plant.I will use basic CNN method to train the model and will check that testing image is belongs to which class.
+If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
+![alt text](https://github.com/mayank0rastogi/salary-p/blob/main/uploads/salary-p.png)
 
-Table of Content:
+
+## The purpose of this notebook is to predict wheather the image belongs to diseased class or not. In this dataset we have 4 classes diseased leaf , diseased plant , freash leaf and freash plant.I will use basic CNN method to train the model and will check that testing image is belongs to which class.
+
+## Table of Content:
+```
 Libraries
+```
+```
 Training & DataLoader
+```
+```
 Building the CNN
+```
+```
 Summary
+```
+```
 Training The CNN
+```
+```
 Testing
+```
+```
 Conclusion
+```
